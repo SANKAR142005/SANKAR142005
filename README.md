@@ -21,8 +21,11 @@ I am currently dedicated to work with a real world hardware project "Real Time P
 [![Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANKAR142005&show_icons=true&theme=tokyonight)](https://github.com/SANKAR142005/github-readme-stats&show_icons=true)                                                                                                                                                                          
 
 ## 📫 Get in Touch!                                                                                                                                                               
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=ffffff&www.linkedin.com/in/sankarandiyappan)                            
-![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=flat-square&logo=link&logoColor=ffffff&https://sankar-portfolio.dorik.io/) 
+<p align="left">
+<a href="https://www.linkedin.com/in/sankarandiyappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sankar" height="30" width="40" /></a>
+</p>                          
+![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=flat-square&logo=link&logoColor=ffffff)
+
 
 Feel free to explore my repositories, and let’s connect🤝!
                                                                                 
