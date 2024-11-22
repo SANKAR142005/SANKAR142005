@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 ## 🚀 About Me
 .🎓 BE in Computer Science and Engineering            
 .💼 Student @ #SREC, COIMBATORE                               
-.🌎 Based in Tamilnadu,India                                                                                                                                                                   
+.🌎 Based in Tamilnadu,India                                                                                               
 .📫 Email: sankarandiyappan14gmail.com      
 
 # 🛠️ Languages and tools                                                                                                                                                                       
